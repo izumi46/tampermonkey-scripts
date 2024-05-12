@@ -8,8 +8,6 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=baidu.com
 // @grant        none
 // @license      MIT
-// @downloadURL https://update.greasyfork.org/scripts/492252/i%E8%B4%B4%E5%90%A7%E5%9B%BE%E7%89%87%E9%93%BE%E6%8E%A5%E6%9B%BF%E6%8D%A2%E4%B8%BAhttps.user.js
-// @updateURL https://update.greasyfork.org/scripts/492252/i%E8%B4%B4%E5%90%A7%E5%9B%BE%E7%89%87%E9%93%BE%E6%8E%A5%E6%9B%BF%E6%8D%A2%E4%B8%BAhttps.meta.js
 // ==/UserScript==
 
 (function() {
